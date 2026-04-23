@@ -1,2 +1,2 @@
 # WindowsPhoneTestNo1
-a test of a port od Windows Live messenger to Windows Phone
+a test of a port of Windows Live messenger to Windows Phone
